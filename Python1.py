@@ -1,2 +1,0 @@
-print("Shivam")
-print("Sharma")
